@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/bin/Debug/netcoreapp2.0/dotnet_boxing_unboxing.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/bin/Debug/netcoreapp2.0/dotnet_boxing_unboxing.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/bin/Debug/netcoreapp2.0/dotnet_boxing_unboxing.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/bin/Debug/netcoreapp2.0/dotnet_boxing_unboxing.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/bin/Debug/netcoreapp2.0/dotnet_boxing_unboxing.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/obj/Debug/netcoreapp2.0/dotnet_boxing_unboxing.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/obj/Debug/netcoreapp2.0/dotnet_boxing_unboxing.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/obj/Debug/netcoreapp2.0/dotnet_boxing_unboxing.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/obj/Debug/netcoreapp2.0/dotnet_boxing_unboxing.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/dotnet_boxing_unboxing/obj/Debug/netcoreapp2.0/dotnet_boxing_unboxing.pdb
